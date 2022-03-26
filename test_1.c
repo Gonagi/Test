@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("abcd\n");
-	printf("efgh\n");
+
 	return 0;
 }
