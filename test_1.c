@@ -8,7 +8,7 @@ int main()
 	for (int i = 10; i < 20; i++)
 		printf("%d\n", i);
 	
-	printf("AbCD\n");
-
+	printf("ABCD\n");
+	printf("abcd\n");
 	return 0;
 }
