@@ -8,7 +8,12 @@ int main()
 	for (int i = 10; i < 20; i++)
 		printf("%d\n", i);
 	
+<<<<<<< HEAD
 	for (int i = 20; i < 30; i++)
 		printf("%d\n", i);
+=======
+	printf("ABCD\n");
+	printf("abcd\n");
+>>>>>>> test1
 	return 0;
 }
