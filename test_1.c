@@ -13,8 +13,5 @@ int main()
 	printf("ABCD\n");
 	printf("abcd\n");
 
-	for (int i = 30; i < 40; i++)
-		printf("%d\n", i);
-
 	return 0;
 }
