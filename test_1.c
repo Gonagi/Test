@@ -18,6 +18,7 @@ int main()
 		printf("%d\n", i);
 
 	printf("conflicts!\n");
+	printf("Resolve conflicts.n");
 
 	return 0;
 }
