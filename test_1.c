@@ -14,6 +14,10 @@ int main()
 =======
 	printf("ABCD\n");
 	printf("abcd\n");
->>>>>>> test1
+>>>>>> > test1
+
+	for (int i = 30; i < 40; i++)
+			printf("%d ", i);
+
 	return 0;
 }
