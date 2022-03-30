@@ -18,6 +18,8 @@ int main()
 		printf("%d\n", i);
 
 	printf("conflicts!\n");
+	
+	printf("원격저장소\n");
 
 	return 0;
 }
