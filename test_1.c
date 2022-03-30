@@ -19,6 +19,8 @@ int main()
 
 	printf("conflicts!\n");
 	printf("Resolve conflicts.n");
+	
+	printf("원격저장소\n");
 
 	return 0;
 }
