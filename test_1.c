@@ -17,5 +17,7 @@ int main()
 	for (int i = 30; i < 40; i++)
 		printf("%d\n", i);
 
+	printf("conflicts!\n");
+
 	return 0;
 }
