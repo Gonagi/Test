@@ -28,5 +28,7 @@ int main()
 
 	printf("user2 push\n");
 	
+	printf("user2 15:54 push\n");
+	
 	return 0;
 }
