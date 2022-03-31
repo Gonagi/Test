@@ -17,6 +17,10 @@ int main()
 	for (int i = 30; i < 40; i++)
 		printf("%d\n", i);
 
+	while (1) {
+		break;
+	}
+
 	printf("conflicts!\n");
 	printf("Resolve conflicts.n");
 	
