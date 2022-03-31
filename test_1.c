@@ -27,8 +27,14 @@ int main()
 	printf("원격저장소\n");
 
 	printf("user2 push\n");
+<<<<<<< HEAD
 
 	printf("Gonagi push 15:56\n");
 
+=======
+	
+	printf("user2 15:54 push\n");
+	
+>>>>>>> 2d4cae1d8b7eede129a1f0072009504faa1ac9e6
 	return 0;
 }
