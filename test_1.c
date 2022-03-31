@@ -22,5 +22,7 @@ int main()
 	
 	printf("원격저장소\n");
 
+	printf("user2 push\n");
+	
 	return 0;
 }
