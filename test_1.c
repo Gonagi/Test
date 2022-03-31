@@ -2,6 +2,8 @@
 
 int main()
 {
+	printf("sync\n");
+
 	for (int i = 0; i < 10; i++)
 		printf("%d ", i);
 
@@ -22,5 +24,7 @@ int main()
 	
 	printf("원격저장소\n");
 
+	printf("user2 push\n");
+	
 	return 0;
 }
