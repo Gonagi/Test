@@ -32,5 +32,9 @@ int main()
 	
 	printf("user2 15:54 push\n");
 	
+
+	for (int i = 0; i < 100; i++)
+		printf("%d ", i);
+
 	return 0;
 }
