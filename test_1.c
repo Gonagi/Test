@@ -32,7 +32,12 @@ int main()
 	
 	printf("user2 15:54 push\n");
 	
+<<<<<<< HEAD
 	for(int i = 100; i > 0; i--)
+=======
+
+	for (int i = 0; i < 100; i++)
+>>>>>>> f40eefeaace8f2b321ca7c6df7378c64f6868274
 		printf("%d ", i);
 
 	return 0;
